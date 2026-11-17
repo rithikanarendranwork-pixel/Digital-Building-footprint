@@ -4,6 +4,9 @@ Automated Generating a 3D building footprint using supervised ML techniques
 architecture used: U Net
 File format: vector and rastor LiDAR files
 
+<img width="382" height="826" alt="Screenshot 2026-11-16 at 6 24 24 PM" src="https://github.com/user-attachments/assets/7aadd2c7-91ef-4591-984d-5074b5752e26" />
+
+
 <img width="1200" height="941" alt="image" src="https://github.com/user-attachments/assets/7e805a67-a324-434e-b116-31e5bf8ef9c8" />
 
 
